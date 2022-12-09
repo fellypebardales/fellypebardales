@@ -93,11 +93,11 @@
     justify-content: center;
 }
 
-#secao2 .animacao ul {
+#secao2 .animacao div {
     margin-top: 54px;
 }
 
-#secao2 .animacao ul li {
+#secao2 .animacao div .it {
     width: 260px;
     border-radius: 10px;
     border: 1px solid #EE7342;
