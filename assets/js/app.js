@@ -59,9 +59,9 @@
 
 
     $("#it").mouseenter(function () {
-        $("#item1").first().fadeIn("fast", "linear");
+        $("#item2").first().fadeIn("fast", "linear");
       });
 
       $("#it").mouseout(function () {
-        $("#item1").first().fadeOut("fast", "linear");
+        $("#item2").first().fadeOut("fast", "linear");
       });
