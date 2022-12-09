@@ -58,11 +58,12 @@
 //     img.setAttribute('src', 'assets/images/cesto-inicial.png');})
 
 
-        $("#receita2").first().fadeOut("fast", "linear");
+    $("#secao5").fadeOut("fast", "linear");
+    $("#receita2").fadeOut("fast", "linear");
     $("#it22").mouseenter(function () {
-        $("#receita2").first().fadeIn("fast", "linear");
+        $("#receita2").fadeIn("fast", "linear");
       });
 
-      $("#it22").mouseout(function () {
-        $("#receita2").first().fadeOut("fast", "linear");
+    $("#it22").mouseout(function () {
+        $("#receita2").fadeOut("fast", "linear");
       });
