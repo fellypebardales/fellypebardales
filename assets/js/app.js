@@ -59,9 +59,9 @@
 
 
     $("#it").mouseenter(function () {
-        $("#item2").first().fadeIn("fast", "linear");
+        $("#receita2").first().fadeIn("fast", "linear");
       });
 
       $("#it").mouseout(function () {
-        $("#item2").first().fadeOut("fast", "linear");
+        $("#receita2").first().fadeOut("fast", "linear");
       });
