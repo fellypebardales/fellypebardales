@@ -62,6 +62,6 @@
         $("#item1").first().fadeIn("fast", "linear");
       });
 
-      $("button").mouseout(function () {
+      $("#it").mouseout(function () {
         $("#item1").first().fadeOut("fast", "linear");
       });
