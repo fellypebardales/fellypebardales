@@ -58,8 +58,7 @@
 //     img.setAttribute('src', 'assets/images/cesto-inicial.png');})
 
 
-    $("#secao5").fadeOut("fast", "linear");
-    $("#receita2").fadeOut("fast", "linear");
+
     $("#item2").mouseenter(function () {
         $("#receita2").fadeIn("fast", "linear");
       });
