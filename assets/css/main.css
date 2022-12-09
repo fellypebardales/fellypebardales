@@ -93,6 +93,10 @@
     justify-content: center;
 }
 
+#secao2 .animacao .grupo1, .grupo2 {
+    display: flex;
+}
+
 #secao2 .animacao .list-itens {
     margin-top: 54px;
 }
@@ -115,7 +119,7 @@
     align-items: center;
     cursor: default;
 }
-#secao2 .animacao ul li:hover {
+#secao2 .animacao #ir:hover {
     background-color: #EE7342;
     color: #000000;
     transition: 1s;
