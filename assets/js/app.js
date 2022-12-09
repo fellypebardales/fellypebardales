@@ -58,10 +58,11 @@
 //     img.setAttribute('src', 'assets/images/cesto-inicial.png');})
 
 
-    $("#it").mouseenter(function () {
+        $("#receita2").first().fadeOut("fast", "linear");
+    $("#it22").mouseenter(function () {
         $("#receita2").first().fadeIn("fast", "linear");
       });
 
-      $("#it").mouseout(function () {
+      $("#it22").mouseout(function () {
         $("#receita2").first().fadeOut("fast", "linear");
       });
