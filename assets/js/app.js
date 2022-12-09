@@ -57,3 +57,5 @@ item.addEventListener ("mouseover", function() {
 item.addEventListener ("mouseout", function() {
     img.setAttribute('src', 'assets/images/cesto-inicial.png');})
 
+
+      $("h5").fadeOut("5000").fadeIn("2000").fadeOut("2000");
