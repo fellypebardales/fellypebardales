@@ -93,11 +93,11 @@
     justify-content: center;
 }
 
-#secao2 .animacao div {
+#secao2 .animacao .list-itens {
     margin-top: 54px;
 }
 
-#secao2 .animacao div .it {
+#secao2 .animacao .list-itens #it {
     width: 260px;
     border-radius: 10px;
     border: 1px solid #EE7342;
