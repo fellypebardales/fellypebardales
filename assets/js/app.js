@@ -59,10 +59,10 @@
 
 
 
-    $("div#item2").mouseenter(function () {
+    $("div#it").mouseenter(function () {
         $("#receita2").fadeIn("fast", "linear");
       });
 
-    $("div#item2").mouseout(function () {
+    $("div#it").mouseout(function () {
         $("#receita2").fadeOut("fast", "linear");
       });
