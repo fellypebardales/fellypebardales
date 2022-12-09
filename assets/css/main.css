@@ -990,8 +990,7 @@
 
     #secao4 .conteudo-s4 {
         background: url(../images/mob-secao4.jpg);
-
-        padding: 10px 230px 0;
+        padding: 10px 0;
     }
 
     #secao4 h2 {
@@ -1034,8 +1033,10 @@
     #secao5{
         background: url(../images/mob-secao5.jpg);
         height: 637px;
-        padding: 10px 230px 0;
+        padding: 10px 0 0;
     }
+
+
 
 }
 
