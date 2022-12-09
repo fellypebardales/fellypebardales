@@ -60,7 +60,7 @@
 
     $("#secao5").fadeOut("fast", "linear");
     $("#receita2").fadeOut("fast", "linear");
-    $("#it22").mouseenter(function () {
+    $("#item2").mouseenter(function () {
         $("#receita2").fadeIn("fast", "linear");
       });
 
